@@ -1,0 +1,1 @@
+web: gunicorn mexigrow.wsgi --log-file -
